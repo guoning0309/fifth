@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_dollar" type="id" />
+    <item name="edit_dollar" type="id" />
+    <item name="edit_euro" type="id" />
+    <item name="edit_won" type="id" />
+</resources>
